@@ -1,0 +1,14 @@
+{
+  "name": "preentrega",
+  "version": "1.0.0",
+  "description": "Pre entreega del curso Backend TalentoTech 2025",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Luciano Ravainera",
+  "license": "ISC",
+  "type": "module"
+}
+
